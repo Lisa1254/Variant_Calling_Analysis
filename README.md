@@ -1,5 +1,7 @@
 # Variant_Calling_Analysis
 
+Intend to add example of variable_sites.txt file used in script.  
+  
 ## Table of contents
 1. [Overview](#overview)
    1. [Repository Description](#repository)
